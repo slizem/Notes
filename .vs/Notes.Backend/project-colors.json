@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88510912-17bc-49da-88ec-326b5accb930": {
+      "ProjectGuid": "88510912-17bc-49da-88ec-326b5accb930",
+      "DisplayName": "Notes.Tests",
+      "ColorIndex": 0
+    },
+    "a56ece79-b1f0-47c7-b261-abf9ec991e54": {
+      "ProjectGuid": "a56ece79-b1f0-47c7-b261-abf9ec991e54",
+      "DisplayName": "Notes.WebApi",
+      "ColorIndex": 1
+    },
+    "e3ee8ebb-8dc5-41bb-aaf8-393b3f188718": {
+      "ProjectGuid": "e3ee8ebb-8dc5-41bb-aaf8-393b3f188718",
+      "DisplayName": "Notes.Persistence",
+      "ColorIndex": 2
+    },
+    "91e8803d-126c-4a78-81c5-68e6d34d9a71": {
+      "ProjectGuid": "91e8803d-126c-4a78-81c5-68e6d34d9a71",
+      "DisplayName": "Notes.Application",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
